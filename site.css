@@ -176,6 +176,7 @@ footer li {
     margin-right: 10em;
 }
 
+
 .direita {
     width: 100%;
     color: white;
@@ -188,4 +189,9 @@ footer li {
 .direita span {
     font-size: 32px;
    
+}
+.meio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
